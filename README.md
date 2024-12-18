@@ -13,7 +13,7 @@
 > 2. Open `browser.py`.
 > 3. If you want to add a toolbar object, use `QAction` with `self`.
 > 4. If you want to customize the search page, customize it in `main.html` or create another `HTML5` file.
-> 5. If you want to change the logo, change the `setWindowIcon` part. **Do not delete the `{dir_name}`.
+> 5. If you want to change the logo, change the `setWindowIcon` part. **Do not delete the `{dir_name}`**.
 > 6. If you want to add another toolbar, use `QToolBar`.
 ## Warning
  **PyBrowser may not open some websites**
