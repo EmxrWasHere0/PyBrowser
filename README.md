@@ -1,9 +1,13 @@
 # PyBrowser
 
 ## How to Use PyBrowser
+**Windows**
 > 1. Go to [Releases](https://github.com/EmxrWasHere0/PyBrowser/releases) and download the latest version.
 > 2. Extract the ZIP and run `browser.exe`
 > 3. You can search or type a URL using the search bar on the page or the bar at the top of the app. **PyBrowser may not open some websites**
+
+**Linux and Mac**
+> These operating systems is not supported right now. Clone the repository or download the source code and run the code in your IDE or terminal.
 ## How to Customize PyBrowser
 > 1. Clone this repository or download the ZIP file.
 > 2. Open `browser.py`.
